@@ -1,0 +1,41 @@
+
+{
+  "items": [
+    {
+      "question": "How can I apply for admission?",
+      "answer": "Please contact the admission office."
+    },
+    {
+      "question": "What documents are needed for admission?",
+      "answer": "Please ask the admission office about required documents."
+    },
+    {
+      "question": "When are the exams?",
+      "answer": "Please check the examination office for exam dates."
+    },
+    {
+      "question": "How can I check my exam results?",
+      "answer": "Please check the university's official result portal."
+    },
+    {
+      "question": "Where is the IT department?",
+      "answer": "Please contact the IT department."
+    },
+    {
+      "question": "What is the fee structure?",
+      "answer": "Please check the official fee schedule or contact the accounts office."
+    },
+    {
+      "question": "How can I pay my university fees?",
+      "answer": "Please contact the accounts office for fee payment instructions."
+    },
+    {
+      "question": "Are scholarships available?",
+      "answer": "Please contact the financial aid office about scholarships."
+    },
+    {
+      "question": "How can I get a student ID card?",
+      "answer": "Please contact the student affairs office for your student ID card."
+    }
+  ]
+}
