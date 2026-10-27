@@ -72,4 +72,4 @@ This project is a student Final Year Project (FYP) prototype. It will be tested 
 
 ## GitHub Repository
 
-https://github.com/hacksentec072-hash/UniversityHelpdeskChatbot
+[https://github.com/hacksentec072-hash/UniversityHelpdeskChatbot](https://github.com/hacksentec072-hash/Python-based-University-Information-Chatbot)
